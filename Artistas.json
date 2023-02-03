@@ -1,0 +1,42 @@
+[
+    {
+        "nombre": "Fabricio",
+        "apellido": "Daniele",
+        "edad": 36,
+        "instrumento": "batería",
+        "banda": "Mute",
+        "integranteActual": true,
+        "equipamiento": [
+            {
+                "drum/cymbals": "Solidrums",
+                "medidas": "22, 16, 13, 14",
+                "hardware": "Pearl P-930"
+            },
+            {
+                "drum/cymbals": "DreamCymbals Bliss y Stagg Sh",
+                "medidas": "20,18, 14",
+                "hardware": "Pearl y Tama"
+            }
+        ]
+    },
+    {
+        "nombre": "Felipe",
+        "apellido": "Strasser",
+        "edad": 33,
+        "instrumento": "batería",
+        "banda": "Trance Colectivo",
+        "integranteActual": true,
+        "equipamiento": [
+            {
+                "drum/cymbals": "Tama Rhytm",
+                "medidas": "22, 16, 12, 10, 14",
+                "hardware": "Tama"
+            },
+            {
+                "drum/cymbals": "Marathon Meinl y Stagg Dh",
+                "medidas": "20, 14",
+                "hardware": "Pearl y Tama"
+            }
+        ]
+    }
+]
